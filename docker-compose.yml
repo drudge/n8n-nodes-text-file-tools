@@ -1,0 +1,7 @@
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:latest
+    ports:
+      - 5678:5678
+    volumes:
+      - ./dist:/home/node/.n8n/custom/node_modules/n8n-nodes-text-file-tools

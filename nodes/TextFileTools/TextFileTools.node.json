@@ -1,0 +1,17 @@
+{
+	"node": "n8n-nodes-text-file-tools.textFileTools",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Core Nodes"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/drudge/n8n-nodes-text-file-tools/"
+			}
+		]
+	},
+	"alias": ["Strip BOM", "Convert Line Endings", "Skip Lines", "Text File", "CSV File Tools"],
+	"subcategories": {
+		"Core Nodes": ["Files", "Data Transformation"]
+	}
+}
