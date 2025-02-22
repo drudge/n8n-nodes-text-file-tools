@@ -145,6 +145,7 @@ export class TextFileTools implements INodeType {
 					binary: {
 						[binaryPropertyName]: processedBinaryData,
 					},
+					pairedItem: items[i].pairedItem,
 				});
 			} catch (error) {
 				if (this.continueOnFail()) {

@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-text-file-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "n8n node for processing text files: remove UTF-8 BOM, convert line endings, and normalize text formats",
   "keywords": [
     "n8n-community-node-package",
